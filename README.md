@@ -1,1 +1,1 @@
-[Project List](https://github.com/viradhanus/Academic-Projects-UOP-wiki/wiki/Academic-Projects-at-UOP)
+[Project List](https://github.com/viradhanus/Academic-Projects-UOP-wiki/wiki/Academic-Projects-List)
